@@ -8949,6 +8949,11 @@ postcss@^7, postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, po
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
+postman@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/postman/-/postman-0.2.0.tgz#73cb3634336d6cf37b976826561204157501e04e"
+  integrity sha1-c8s2NDNtbPN7l2gmVhIEFXUB4E4=
+
 prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
